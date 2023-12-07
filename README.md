@@ -1,4 +1,4 @@
-| Nama                | Nim       | Kelas    |
+| Nama                | NIM       | Kelas    |
 | ------------------- | --------- | -------- |
 | Ahmad Ridho Septian | 312310447 | TI.23.A5 |
 
